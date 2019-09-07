@@ -1,0 +1,1 @@
+Estos proyectos y carpetas pertenecen a un curso de Universidad en Arequipa - Perú
