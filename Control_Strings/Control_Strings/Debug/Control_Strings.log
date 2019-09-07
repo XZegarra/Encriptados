@@ -1,0 +1,6 @@
+﻿  Control_Strings.cpp
+C:\Universidad\AlgebraAbstracta\Control_Strings\Control_Strings\Control_Strings.cpp(22,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\AlgebraAbstracta\Control_Strings\Control_Strings\Control_Strings.cpp(52,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\AlgebraAbstracta\Control_Strings\Control_Strings\Control_Strings.cpp(57,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\AlgebraAbstracta\Control_Strings\Control_Strings\Control_Strings.cpp(80,20): warning C4018:  '<': no coinciden signed/unsigned
+  Control_Strings.vcxproj -> C:\Universidad\AlgebraAbstracta\Control_Strings\Debug\Control_Strings.exe
