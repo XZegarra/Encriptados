@@ -6,9 +6,8 @@ using namespace std;
 
 int main() {
 
-	Usuario Emisor("hola como estas");
+	Usuario Emisor(11);
 	cout << "El mensaje es: " << endl << Emisor.getMessage() << endl;
-	int clave = 3;
-	cout << "La clave es: " << endl << clave << endl;
-	cout << "El mensaje incriptado es: " << endl << Emisor.encrypt(clave);
+	cout << "El mensaje incriptado es: " << endl << Emisor.encrypt("Hola como estas") << endl;
+	cout << "El mensaje desinptado es: " << endl << Emisor.decrypt("trus5wwwwwweeat wwwwwwn nabwwwwwwgyt ywwwwwwo al wwwwww nraewwwwwwhoeslwwwwwwa   iwwwwwwmah3awwwwwwbga1swwwwww") << endl;
 }

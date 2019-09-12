@@ -14,12 +14,13 @@ using namespace std;
 class Usuario
 {
 	string message;
-	string alphabet = "abcdefghijklmnopqrstuvwxyz0123456789 ";
+	int key;
 public:
+	string alphabet = "abcdefghijklmnopqrstuvwxyz0123456789 ";
 	Usuario();
-	Usuario(string text);
+	Usuario(int key1);
 	int keyGen();
-	string encrypt(int key);
-	string decrypt();
+	string encrypt(string menssage);
+	string decrypt(string encryptedMessage);
 	string getMessage();
 };

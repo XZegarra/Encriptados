@@ -1,0 +1,5 @@
+﻿  CodigoEnigma.cpp
+C:\Universidad\AlgebraAbstracta\CodigoEnigma\CodigoEnigma.cpp(14,27): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\AlgebraAbstracta\CodigoEnigma\CodigoEnigma.cpp(26,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\AlgebraAbstracta\CodigoEnigma\CodigoEnigma.cpp(30,19): warning C4018:  '<': no coinciden signed/unsigned
+  CodigoEnigma.vcxproj -> C:\Universidad\AlgebraAbstracta\CodigoEnigma\Debug\CodigoEnigma.exe

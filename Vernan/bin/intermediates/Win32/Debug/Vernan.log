@@ -6,5 +6,7 @@ C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(32,19): warning C4018:
 C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(38,19): warning C4018:  '<': no coinciden signed/unsigned
 C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(52,20): warning C4018:  '<': no coinciden signed/unsigned
 C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(64,19): warning C4018:  '<': no coinciden signed/unsigned
+  main.cpp
+  Generando código...
 C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(67,14): warning C4018:  '>=': no coinciden signed/unsigned
   Vernan.vcxproj -> C:\Universidad\AlgebraAbstracta\Vernan\\bin\Win32\Debug\Vernan.exe

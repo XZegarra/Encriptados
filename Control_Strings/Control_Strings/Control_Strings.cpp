@@ -11,7 +11,6 @@ int main() {
 	string clave = Emisor.keyGen();
 	cout << "La clave es: " << endl << clave << endl;
 	string mensajeEncriptado = Emisor.encrypt(clave);
-	cout << "El mensaje incriptado es: " << endl << mensajeEncriptado << endl;
+	cout << "El mensaje incriptado es: " << endl << mensajeEncriptado;
 	cout << "El mensaje desincriptado es: " << endl << Emisor.decrypt(mensajeEncriptado, clave);
 }
-
