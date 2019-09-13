@@ -1,4 +1,0 @@
-﻿  Control_Strings.cpp
-C:\Universidad\Encriptados\Control_Strings\Control_Strings\Control_Strings.cpp(10,56): error C2228:  el operando izquierdo de '.getMessage' debe tener class/struct/union
-C:\Universidad\Encriptados\Control_Strings\Control_Strings\Control_Strings.cpp(11,37): error C2065:  'clave': identificador no declarado
-C:\Universidad\Encriptados\Control_Strings\Control_Strings\Control_Strings.cpp(12,44): error C2065:  'clave': identificador no declarado
