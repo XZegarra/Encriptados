@@ -1,10 +1,10 @@
 #include "Usuario.h"
 
 Usuario::Usuario() {
-	message = "";
+	key = keyGen();
 }
-Usuario::Usuario(string text) {
-	message = text;
+Usuario::Usuario(string key1) {
+	key = key1;
 }
 string Usuario::keyGen() {
 	vector <string> clave;
@@ -24,7 +24,8 @@ string Usuario::keyGen() {
 	}
 	return key;
 }
-string Usuario::encrypt(string key) {
+string Usuario::encrypt(string message1) {
+	message = message1;
 	int* arrow = new int[message.length()]; //creamos un arreglo de enteros para almacenar
 	for (int i = 0;i < message.length();i++) {
 		int n1;
@@ -55,7 +56,7 @@ string Usuario::encrypt(string key) {
 	}
 	return mensajeCifrado;
 }
-string Usuario::decrypt(string mensajeCifrado, string key) {
+string Usuario::decrypt(string mensajeCifrado) {
 	string mensajeNuevo = "";
 	for (int i = 0; i < mensajeCifrado.length();i++) {
 		int pos1;

@@ -1,11 +1,12 @@
-﻿  main.cpp
+﻿  Funciones.cpp
+  main.cpp
   Usuario.cpp
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(12,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(28,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(29,17): warning C4018:  '>=': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(37,10): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(52,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(53,20): warning C4018:  '>=': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(12,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(28,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(29,17): warning C4018:  '>=': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(37,10): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(52,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(53,20): warning C4018:  '>=': no coinciden signed/unsigned
   Generando código...
-C:\Universidad\AlgebraAbstracta\Escitala\Usuario.cpp(61,20): warning C4018:  '<': no coinciden signed/unsigned
-  Escitala.vcxproj -> C:\Universidad\AlgebraAbstracta\Escitala\Debug\Escitala.exe
+C:\Universidad\Encriptados\Escitala\Usuario.cpp(61,20): warning C4018:  '<': no coinciden signed/unsigned
+  Escitala.vcxproj -> C:\Universidad\Encriptados\Escitala\Debug\Escitala.exe

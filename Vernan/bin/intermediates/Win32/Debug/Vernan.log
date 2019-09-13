@@ -1,12 +1,13 @@
-﻿  Usuario.cpp
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(12,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(13,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(19,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(32,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(38,19): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(52,20): warning C4018:  '<': no coinciden signed/unsigned
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(64,19): warning C4018:  '<': no coinciden signed/unsigned
-  main.cpp
+﻿  main.cpp
+  Funciones.cpp
+  Usuario.cpp
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(12,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(13,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(19,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(32,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(38,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(52,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(64,19): warning C4018:  '<': no coinciden signed/unsigned
   Generando código...
-C:\Universidad\AlgebraAbstracta\Vernan\Vernan\Usuario.cpp(67,14): warning C4018:  '>=': no coinciden signed/unsigned
-  Vernan.vcxproj -> C:\Universidad\AlgebraAbstracta\Vernan\\bin\Win32\Debug\Vernan.exe
+C:\Universidad\Encriptados\Vernan\Vernan\Usuario.cpp(67,14): warning C4018:  '>=': no coinciden signed/unsigned
+  Vernan.vcxproj -> C:\Universidad\Encriptados\Vernan\\bin\Win32\Debug\Vernan.exe
